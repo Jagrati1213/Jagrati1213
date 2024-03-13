@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Jagrati Gupta - Frontend Developer
 
-🚀 Welcome to my personal introduction! 🚀
+Welcome to my personal introduction! 🚀
 
 ## About Me
 
@@ -27,9 +27,9 @@ Here's a glimpse of the tools and technologies I wield:
 
 Ready to collaborate or have a chat? Connect with me on these platforms:
 
-- **LinkedIn**: [Jagrati Gupta](https://www.linkedin.com/in/jagrati-gupta21/) 📊
-- **Twitter**: [Jagrati_Gpt](https://twitter.com/Jagrati_Gpt) 🐦
-- **Portfolio**: [Jagrati Gupta Portfolio](https://jagrati-gupta.vercel.app/) 💼
+- [**LinkedIn 🚀**](https://www.linkedin.com/in/jagrati-gupta21/) 
+- [**Twitter 🚀**](https://twitter.com/Jagrati_Gpt) 
+- [**Portfolio 🚀**](https://jagrati-gupta.vercel.app/) 
 
 ## Get in Touch! 📧
 
