@@ -5,7 +5,7 @@ demonstrating skills in Redux, Ant Design, Tailwind CSS, and Bootstrap. Familiar
 full-stack projects integrating technologies like Express.js, Node.js, MongoDB, Next.js, Remix.js, Axios, TypeScript, and SCSS.
 
 ## Tech Stack 💻
-HTML, CSS, JAVASCRIPT, JQUERY, TYPESCRIPT, REACT JS, REDUX/REDUX-TOOLKIT, NODE JS, EXPRESS JS, ANT DESIGN, TAILWIND CSS, POLARIS, REMIX JS, MONGODB, SHOPIFY APIS, POSTMAN
+HTML, CSS, JavaSCcript, JQuery, Tyescript, React JS, Redux/Redux-Toolkit, Node JS, Express JS, Ant Design, Tailwind CSS, Polaris, Remix JS, Mongodb, Shopify APIS, Postman
 
 ## Let's Connect! 🌐
 
