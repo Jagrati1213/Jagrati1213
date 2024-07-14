@@ -1,6 +1,5 @@
 ### Hi there 👋
 # Jagrati Gupta - Frontend Developer
-## About Me
 As frontend developer experienced in HTML, CSS, JavaScript, and React js. I have worked on projects and plugins,
 demonstrating skills in Redux, Ant Design, Tailwind CSS, and Bootstrap. Familiar with the MERN stack,I has completed
 full-stack projects integrating technologies like Express.js, Node.js, MongoDB, Next.js, Remix.js, Axios, TypeScript, and SCSS.
