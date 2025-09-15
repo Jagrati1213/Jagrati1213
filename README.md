@@ -5,15 +5,13 @@ demonstrating skills in Redux, Ant Design, Tailwind CSS, and Bootstrap. Familiar
 full-stack projects integrating technologies like Express.js, Node.js, MongoDB, Next.js, Remix.js, Axios, TypeScript, and SCSS.
 
 ## Tech Stack 💻
-HTML, CSS, JavaSCcript, JQuery, Tyescript, React JS, Redux/Redux-Toolkit, Node JS, Express JS, Ant Design, Tailwind CSS, Polaris, Remix JS, Mongodb, Shopify APIS, Postman
+HTML, CSS, JavaSCcript, JQuery, Tyescript, React JS, Redux/Redux-Toolkit, Jest,React Native, Node JS, Express JS, Ant Design, Tailwind CSS, Polaris, Remix JS, Mongodb, Shopify APIS, Postman
 
 ## Let's Connect! 🌐
 
 Ready to collaborate or have a chat? Connect with me on these platforms:
 
 - [**LinkedIn 🚀**](https://www.linkedin.com/in/jagrati-gupta21/) 
-- [**Twitter 🚀**](https://twitter.com/Jagrati_Gpt) 
-- [**Portfolio 🚀**](https://jagrati-gupta.vercel.app/) 
 
 ## Get in Touch! 📧
 
